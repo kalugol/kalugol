@@ -4,5 +4,19 @@ body {
 
 
  header {
-    border: solid 2px rgb(0, 95, 123);
+    border-bottom:  solid 2px rgb(0, 95, 123);
+    padding: 20px;
+    font-size: 35px;
+    color: rgb(0,95,125);
+}  
+section{
+ background: rgb(255,61,0);
+ padding-bottom: 80PX;
+ padding-top: 80PX;
+ display: flex;
+ justify-content: center;
+} 
+
+.chamada-texto{
+    margin-left: 5%;
 }
